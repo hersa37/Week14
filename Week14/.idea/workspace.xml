@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b047c9f2-e33e-4784-b63b-abf1151465e9" name="Changes" comment="Added Pegawai objects">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pbo/week14/interfaces/Bergaji.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pbo/week14/interfaces/Manajer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pbo/week14/interfaces/Pegawai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pbo/week14/interfaces/Sales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pbo/week14/interfaces/Sekretaris.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pbo/week14/interfaces/TesPegawai.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pbo/week13/kancab/KanCabMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pbo/week14/kancab/KanCabMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pbo/week13/kancab/KantorCabang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pbo/week14/kancab/KantorCabang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pbo/week13/pegawai/Manajer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pbo/week14/astract/Manajer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pbo/week13/pegawai/Pegawai.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pbo/week14/astract/Pegawai.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pbo/week13/pegawai/Sales.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pbo/week14/astract/Sales.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pbo/week13/pegawai/Sekretaris.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pbo/week14/astract/Sekretaris.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pbo/week13/pegawai/TesPegawai.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pbo/week14/astract/TesPegawai.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="28HX45M1O44IQBobVbHjcVRvK3H" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/echa/College/Semester 2/PBO 1/Week14/Week14/src/main/java/pbo/week14/interfaces"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/pbo/week14/interfaces" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.pbo.week14.kancab.KanCabMain">
+    <configuration name="KanCabMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pbo.week14.kancab.KanCabMain" />
+      <module name="Week13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pbo.week14.kancab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesPegawai" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pbo.week14.pegawai.TesPegawai" />
+      <module name="Week13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pbo.week14.pegawai.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pb0.week13.pegawai.TesPegawai" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pb0.week13.pegawai.TesPegawai" />
+      <module name="Week13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pb0.week13.pegawai.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.pbo.week14.kancab.KanCabMain" />
+        <item itemvalue="Application.pbo.week14.pegawai.TesPegawai" />
+        <item itemvalue="Application.pb0.week13.pegawai.TesPegawai" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b047c9f2-e33e-4784-b63b-abf1151465e9" name="Changes" comment="" />
+      <created>1650874291099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650874291099</updated>
+      <workItem from="1650874292762" duration="12000" />
+      <workItem from="1650971355523" duration="1162000" />
+      <workItem from="1652846337923" duration="2458000" />
+      <workItem from="1652853627912" duration="1905000" />
+      <workItem from="1652856297294" duration="6414000" />
+      <workItem from="1653209540805" duration="1184000" />
+      <workItem from="1653292286640" duration="624000" />
+      <workItem from="1653293620797" duration="2076000" />
+    </task>
+    <task id="LOCAL-00001" summary="Init">
+      <created>1652858627488</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652858627488</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Init">
+      <created>1652858637882</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652858637882</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Init">
+      <created>1652858845654</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1652858845654</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Init">
+      <created>1652859748286</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1652859748286</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Init">
+      <created>1653210019237</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1653210019237</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added Pegawai objects">
+      <created>1653210037338</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1653210037338</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Init" />
+    <MESSAGE value="Added Pegawai objects" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Pegawai objects" />
+  </component>
+</project>
